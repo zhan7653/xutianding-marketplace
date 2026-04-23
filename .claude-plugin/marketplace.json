@@ -1,0 +1,12 @@
+{
+  "name": "xutianding",
+  "plugins": [
+    {
+      "name": "triforce",
+      "source": {
+        "type": "github",
+        "repo": "zhan7653/triforce"
+      }
+    }
+  ]
+}
