@@ -7,6 +7,26 @@
         "type": "github",
         "repo": "zhan7653/triforce"
       }
+    },
+    {
+      "name": "ohmypowers-power-think",
+      "source": {
+        "type": "git-subdir",
+        "url": "zhan7653/ohmypowers",
+        "path": "ohmypowers-think"
+      },
+      "description": "Requirement thinking: brainstorm, clarify ambiguities, define acceptance criteria, deliver a spec document",
+      "version": "0.2.1"
+    },
+    {
+      "name": "ohmypowers-power-plan",
+      "source": {
+        "type": "git-subdir",
+        "url": "zhan7653/ohmypowers",
+        "path": "ohmypowers-plan"
+      },
+      "description": "Implementation planning: read a spec, propose architecture, structured self-review, deliver a plan document",
+      "version": "0.1.0"
     }
   ]
 }
